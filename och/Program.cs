@@ -38,4 +38,4 @@
                 Console.WriteLine("такого варанта нет");
                 break;
         }
-        Console.WriteLine();
+        Console.WriteLine("ура попеда");
